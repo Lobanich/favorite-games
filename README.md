@@ -23,10 +23,8 @@
 ## Установка и запуск
 
 1. Склонируйте репозиторий:
-    git clone https://github.com/Lobanich/favorite-games.git
-
-
-2. Откройте `index.html` в вашем браузере.
+git clone  https://github.com/Lobanich/favorite-games.git
+2. Откройте index.html
 
 ## Автор
 
