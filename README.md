@@ -35,12 +35,8 @@
 
 1. Склонируйте репозиторий:
     git clone https://github.com/Lobanich/favorite-games.git
-
-2. Перейдите в папку проекта:
-
-    cd ..../favorite-games
  
-3. Откройте `index.html` в вашем браузере.
+2. Откройте `index.html` в вашем браузере.
 
 
 ## Автор
